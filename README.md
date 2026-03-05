@@ -1,5 +1,5 @@
 # Project-Inverted-pendulum-on-a-cart
-Project for Simulation of technical system dynamics
+
 **Мета**: Змоделювати систему «перевернутий маятник на візку» (cart-pole). Синтезувати PID-регулятор для стабілізації. Дослідити область притягання та робастність до збурень.
 
 **1.1. Об’єкт моделювання**
